@@ -11,7 +11,7 @@ export const shareStatus = (
       isHardMode ? '*' : ''
     }\n\n` +
       generateEmojiGrid(guesses) +
-      '\n Partagez : https://l-weisz.github.io/M33otus/'
+      '\n Partagez : https://chenillax.github.io/sutomeeple/'
   )
 }
 

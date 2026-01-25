@@ -15,7 +15,7 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
         >
           Le code de base c'est ici.
         </a>
-        <br /> Merci également à Leah Weiz de m'avoir fourni une première
+        <br /> Merci également à Leah Weisz de m'avoir fourni une première
         version adaptée du code.
       </p>
     </BaseModal>
