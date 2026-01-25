@@ -202,7 +202,7 @@ function App() {
           className="text-xl ml-2.5 grow font-bold dark:text-white"
           style={{ color: '#fed33b' }}
         >
-          SutoMeeple
+          SutoMeeple ⭐
         </h1>
         <InformationCircleIcon
           className="h-6 w-6 mr-2 cursor-pointer dark:stroke-white"
