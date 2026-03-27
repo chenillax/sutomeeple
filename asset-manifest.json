@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sutomeeple/static/css/main.3bccedba.css",
-    "main.js": "/sutomeeple/static/js/main.3d96d60f.js",
-    "static/js/787.6a541d2d.chunk.js": "/sutomeeple/static/js/787.6a541d2d.chunk.js",
+    "main.css": "/sutomeeple/static/css/main.9234bf0b.css",
+    "main.js": "/sutomeeple/static/js/main.65dc75d3.js",
+    "static/js/453.144f4aa1.chunk.js": "/sutomeeple/static/js/453.144f4aa1.chunk.js",
     "index.html": "/sutomeeple/index.html",
-    "main.3bccedba.css.map": "/sutomeeple/static/css/main.3bccedba.css.map",
-    "main.3d96d60f.js.map": "/sutomeeple/static/js/main.3d96d60f.js.map",
-    "787.6a541d2d.chunk.js.map": "/sutomeeple/static/js/787.6a541d2d.chunk.js.map"
+    "main.9234bf0b.css.map": "/sutomeeple/static/css/main.9234bf0b.css.map",
+    "main.65dc75d3.js.map": "/sutomeeple/static/js/main.65dc75d3.js.map",
+    "453.144f4aa1.chunk.js.map": "/sutomeeple/static/js/453.144f4aa1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3bccedba.css",
-    "static/js/main.3d96d60f.js"
+    "static/css/main.9234bf0b.css",
+    "static/js/main.65dc75d3.js"
   ]
 }
