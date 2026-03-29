@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sutomeeple/static/css/main.9234bf0b.css",
-    "main.js": "/sutomeeple/static/js/main.2507eda6.js",
+    "main.js": "/sutomeeple/static/js/main.758f475f.js",
     "static/js/453.144f4aa1.chunk.js": "/sutomeeple/static/js/453.144f4aa1.chunk.js",
     "index.html": "/sutomeeple/index.html",
     "main.9234bf0b.css.map": "/sutomeeple/static/css/main.9234bf0b.css.map",
-    "main.2507eda6.js.map": "/sutomeeple/static/js/main.2507eda6.js.map",
+    "main.758f475f.js.map": "/sutomeeple/static/js/main.758f475f.js.map",
     "453.144f4aa1.chunk.js.map": "/sutomeeple/static/js/453.144f4aa1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9234bf0b.css",
-    "static/js/main.2507eda6.js"
+    "static/js/main.758f475f.js"
   ]
 }
